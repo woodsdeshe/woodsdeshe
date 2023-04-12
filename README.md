@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Optikos<br><br>🌱 I’m currently learning Angular, AWS<br><br>👯 I’m looking to collaborate on Optikos<br><br>🤝 I’m looking for help with Optikos<br><br>💬 Ask me about Vue, Java, OOP<br><br>📫 How to reach me woodsdeshe94@gmail.com<br><br>⚡ Fun fact I am a painter that specializes in acrylic, and fabric mediums
+🔭 I’m currently working on Optikos & Rock Paper Scissors<br><br>🌱 I’m currently learning Angular, AWS<br><br>👯 I’m looking to collaborate on Optikos<br><br>🤝 I’m looking for help with Optikos<br><br>💬 Ask me about Vue, Java, OOP<br><br>📫 How to reach me woodsdeshe94@gmail.com<br><br>⚡ Fun fact I am a painter that specializes in acrylic, and fabric mediums
 
 
 # 💻 Tech Stack:
